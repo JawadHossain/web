@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.53bf55cd.chunk.css",
+    "main.js": "./static/js/main.e1cbf395.chunk.js",
+    "main.js.map": "./static/js/main.e1cbf395.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.23be8457.js",
+    "runtime-main.js.map": "./static/js/runtime-main.23be8457.js.map",
+    "static/js/2.42b2faed.chunk.js": "./static/js/2.42b2faed.chunk.js",
+    "static/js/2.42b2faed.chunk.js.map": "./static/js/2.42b2faed.chunk.js.map",
+    "static/css/3.9063002c.chunk.css": "./static/css/3.9063002c.chunk.css",
+    "static/js/3.bb11a7c6.chunk.js": "./static/js/3.bb11a7c6.chunk.js",
+    "static/js/3.bb11a7c6.chunk.js.map": "./static/js/3.bb11a7c6.chunk.js.map",
+    "static/css/4.11fe9ade.chunk.css": "./static/css/4.11fe9ade.chunk.css",
+    "static/js/4.3834c8de.chunk.js": "./static/js/4.3834c8de.chunk.js",
+    "static/js/4.3834c8de.chunk.js.map": "./static/js/4.3834c8de.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.4f118141d1083263d1b6f3cd85b553ff.js": "./precache-manifest.4f118141d1083263d1b6f3cd85b553ff.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/3.9063002c.chunk.css.map": "./static/css/3.9063002c.chunk.css.map",
+    "static/css/4.11fe9ade.chunk.css.map": "./static/css/4.11fe9ade.chunk.css.map",
+    "static/css/main.53bf55cd.chunk.css.map": "./static/css/main.53bf55cd.chunk.css.map",
+    "static/js/2.42b2faed.chunk.js.LICENSE.txt": "./static/js/2.42b2faed.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/cloudCoreCert.png": "./static/media/cloudCoreCert.0aa54ec3.png",
+    "static/media/cloudEssentialsCert.png": "./static/media/cloudEssentialsCert.2f8e54c3.png",
+    "static/media/contactMailDark.svg": "./static/media/contactMailDark.51cf7192.svg",
+    "static/media/containerKubernetesCert.png": "./static/media/containerKubernetesCert.9771c4b8.png",
+    "static/media/developerActivity.svg": "./static/media/developerActivity.59389695.svg",
+    "static/media/dockerEssentialsCert.png": "./static/media/dockerEssentialsCert.77dd7e1f.png",
+    "static/media/manOnTable.svg": "./static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "./static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "./static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "./static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "./static/media/talksCardBack.13780cdd.svg",
+    "static/media/ualberta_logo.jpeg": "./static/media/ualberta_logo.2c3a8f20.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23be8457.js",
+    "static/js/2.42b2faed.chunk.js",
+    "static/css/main.53bf55cd.chunk.css",
+    "static/js/main.e1cbf395.chunk.js"
+  ]
+}
